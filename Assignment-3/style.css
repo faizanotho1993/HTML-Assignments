@@ -1,0 +1,23 @@
+.main{
+    text-align: center;
+}
+.main h1{
+    color: red;
+    
+}
+.main  input,.main button{
+    padding: 10px;
+}
+.main button{
+    background-color: red;
+    color: white;
+    border: none;
+}
+iframe{
+    width: 250px;
+    height: 210px;
+}
+.table-wrapper{
+    width: 90%;
+    margin-top: 50px;
+}
